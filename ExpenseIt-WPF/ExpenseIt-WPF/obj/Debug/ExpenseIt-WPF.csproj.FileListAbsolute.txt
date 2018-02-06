@@ -1,0 +1,78 @@
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe.config
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.baml
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.baml
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.baml
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF_MarkupCompile.cache
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.g.resources
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt_WPF.Properties.Resources.resources
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.exe
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2012\Projects\C#\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.baml
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe.config
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csprojResolveAssemblyReference.cache
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.baml
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.baml
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.baml
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.baml
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.g.cs
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.g.cs
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.g.cs
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.g.cs
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF_MarkupCompile.cache
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.g.resources
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt_WPF.Properties.Resources.resources
+C:\IHCC\Advanced.NET\Spring 2014\Jeremy Project 3\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csproj.GenerateResource.Cache
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe.config
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csprojResolveAssemblyReference.cache
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.baml
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.baml
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.baml
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.baml
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.g.cs
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.g.cs
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.g.cs
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.g.cs
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF_MarkupCompile.cache
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.g.resources
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt_WPF.Properties.Resources.resources
+C:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csproj.GenerateResource.Cache
+D:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe.config
+D:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.exe
+D:\IHCC\Advanced.NET\WPF Projects\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe.config
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.pdb
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csprojResolveAssemblyReference.cache
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.baml
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.baml
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.baml
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.baml
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseItHome.g.cs
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseReportPage.g.cs
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\MainWindow.g.cs
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\App.g.cs
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF_MarkupCompile.cache
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.g.resources
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt_WPF.Properties.Resources.resources
+C:\IHCC\Advanced .NET\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.csproj.GenerateResource.Cache
+C:\IHCC\Advanced.NET\Examples\WPF\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\bin\Debug\ExpenseIt-WPF.exe.config
+C:\IHCC\Advanced.NET\Examples\WPF\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.exe
+C:\IHCC\Advanced.NET\Examples\WPF\ExpenseIt Tutorial\ExpenseIt-WPF\ExpenseIt-WPF\obj\Debug\ExpenseIt-WPF.pdb
